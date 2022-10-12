@@ -20,7 +20,7 @@
 
 * 第一步，获取应用id、机密、refresh_token 3样东西，以方便接下来的操作。
   登录[Microsoft Azure](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade),找到应用注册并且新注册一个应用
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%89%BE%E5%88%B0%E5%BA%94%E7%94%A8%E6%B3%A8%E5%86%8C.png"/>
+  <img src="https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%89%BE%E5%88%B0%E5%BA%94%E7%94%A8%E6%B3%A8%E5%86%8C.png?token=GHSAT0AAAAAABZPTZZZKGBTUYARY7D3HA62Y2GMDPA"/>
   
   注册应用是的注意事项
   <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E5%BA%94%E7%94%A8.png"/>
