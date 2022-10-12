@@ -23,25 +23,25 @@
   <img src="https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%89%BE%E5%88%B0%E5%BA%94%E7%94%A8%E6%B3%A8%E5%86%8C.png?token=GHSAT0AAAAAABZPTZZZKGBTUYARY7D3HA62Y2GMDPA"/>
   
   注册应用是的注意事项
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E5%BA%94%E7%94%A8.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E5%BA%94%E7%94%A8.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B3%A8%E5%86%8C%E5%BA%94%E7%94%A8.png?token=GHSAT0AAAAAABZPTZZYBKLM5YNYS4XUINFYY2GMEEA)"/>
   
   注册成功后复制id
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6id.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6id.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6id.png?token=GHSAT0AAAAAABZPTZZZXXZ3QUVYH62O7FJAY2GMEOQ)"/>
   
   创建机密
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%88%9B%E5%BB%BA%E6%9C%BA%E5%AF%86.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%88%9B%E5%BB%BA%E6%9C%BA%E5%AF%86.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%88%9B%E5%BB%BA%E6%9C%BA%E5%AF%86.png?token=GHSAT0AAAAAABZPTZZYN3OFE4N5VPC6KUGGY2GMEWQ)"/>
   
   复制机密
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6%E6%9C%BA%E5%AF%86%E5%80%BC.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6%E6%9C%BA%E5%AF%86%E5%80%BC.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E5%A4%8D%E5%88%B6%E6%9C%BA%E5%AF%86%E5%80%BC.png?token=GHSAT0AAAAAABZPTZZZ5T4LQZRTD6K7ZX4CY2GMFAQ)"/>
   
   添加api权限
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B7%BB%E5%8A%A0api%E6%9D%83%E9%99%90.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B7%BB%E5%8A%A0api%E6%9D%83%E9%99%90.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E6%B7%BB%E5%8A%A0api%E6%9D%83%E9%99%90.png?token=GHSAT0AAAAAABZPTZZYJI4MW4IU6LQK6DZUY2GMFPQ)"/>
   
   Api权限如下
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-Api%E6%9D%83%E9%99%90.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-Api%E6%9D%83%E9%99%90.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-Api%E6%9D%83%E9%99%90.png?token=GHSAT0AAAAAABZPTZZYAV6SETJYZCVDDO32Y2GMFYA)"/>
   
   api授权成功如下
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-api%E6%8E%88%E6%9D%83%E6%88%90%E5%8A%9F.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-api%E6%8E%88%E6%9D%83%E6%88%90%E5%8A%9F.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-api%E6%8E%88%E6%9D%83%E6%88%90%E5%8A%9F.png?token=GHSAT0AAAAAABZPTZZZKROWZ2QBIWJNI27YY2GMGCA)"/>
   
   获取refresh_token
   首先下载[Rclone](https://rclone.org/downloads/),下载完成后解压缩
@@ -51,7 +51,7 @@
   rclone authorize "onedrive" "你的应用ID" "你的机密值"
   ```
   回车后弹出浏览器，登录你刚才创建此应用的账号，提示success后返回cmd窗口找到refresh_token，并复制双引号中的内容
-  <img src="https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E8%8E%B7%E5%8F%96refresh_token.png"/>
+  <img src="[https://github.com/Wyatt323/Ayto/blob/master/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E8%8E%B7%E5%8F%96refresh_token.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%80%E6%AD%A5-%E8%8E%B7%E5%8F%96refresh_token.png?token=GHSAT0AAAAAABZPTZZZFVS7LFSMBJPOI4MMY2GMGOA)"/>
   
   
 * 第二步，fork[本仓库](https://github.com/Wyatt323/E5AutoApi),后序操作都在你自己fork后的仓库中使用
@@ -62,13 +62,13 @@
   ```shell
   id=r'你的应用id'
   ```
-  <img src="https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret1.png"/>
+  <img src="[https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret1.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret1.png?token=GHSAT0AAAAAABZPTZZY26LXK7N3ZIW3VDFQY2GMHFA)"/>
 
   CONFIG_KEY
   ```shell
   secret=r'你的应用机密'
   ```
-  <img src="https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret2.png"/>
+  <img src="[https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret2.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%88%9B%E5%BB%BAsecret2.png?token=GHSAT0AAAAAABZPTZZZF3KRW7C47J7JQYBWY2GMHOA)"/>
 
 * 第四步，进入你的个人设置页面(右上角头像 Settings，不是仓库里的 Settings)，选择 Developer settings > Personal access tokens > Generate new token
   
@@ -78,7 +78,7 @@
 
 （必需点进去Test Api看下，api有没有调用到位，有没有出错。外面的Auto Api打勾只能说明运行是正常的，我们还需要确认10个api调用成功了，就像图里的一样。如果少了几个api，要么是注册应用的时候赋予api权限没弄好；要么是没登录激活onedrive，登录激活一下）
 
-  <img src="https://github.com/Wyatt323/E5AutoApi/blob/master/img/action%E6%88%90%E5%8A%9F.png"/>
+  <img src="[https://github.com/Wyatt323/E5AutoApi/blob/master/img/action%E6%88%90%E5%8A%9F.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/action%E6%88%90%E5%8A%9F.png?token=GHSAT0AAAAAABZPTZZZWEXCFJYHUJGM7G5YY2GMH3A)"/>
 
 * 第六步，没出错的话，就搞定啦！！再看看下面的定时次数要不要修改，不打算改就忽略。
 
@@ -88,7 +88,7 @@
 
   * 定时自动启动修改地方：（在.github/workflow/AutoApiSecret.yml文件里，自行百度cron定时任务格式，最短每5分钟一次）
 
-  <img src="https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E4%BF%AE%E6%94%B9%E5%AE%9A%E6%97%B6.png"/>
+  <img src="[https://github.com/Wyatt323/E5AutoApi/blob/master/img/%E4%BF%AE%E6%94%B9%E5%AE%9A%E6%97%B6.png](https://raw.githubusercontent.com/Wyatt323/E5API/main/img/%E4%BF%AE%E6%94%B9%E5%AE%9A%E6%97%B6.png?token=GHSAT0AAAAAABZPTZZYQPTN2OFZ6TBRHE2GY2GMIGQ)"/>
 
 ------------------------------------------------------------
 
